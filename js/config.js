@@ -6,6 +6,6 @@ window._config = {
     },
     api: {
         invokeUrl: 
-'https://jy2nt8onvf.execute-api.us-east-1.amazonaws.com/prod'
+'https://jy2nt8onvf.execute-api.us-east-1.amazonaws.com/prod',
     }
 };
